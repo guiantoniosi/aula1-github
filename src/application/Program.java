@@ -6,6 +6,6 @@ public class Program {
 
 		System.out.println("Palmeiras não tem mundial");
 		System.out.println("E nunca vai ter. KKKKK");
+		System.out.println("Só o Tricolor tem 3");
 	}
-
 }

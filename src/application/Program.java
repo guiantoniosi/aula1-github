@@ -5,6 +5,7 @@ public class Program {
 	public static void main(String[] args) {
 
 		System.out.println("Palmeiras não tem mundial");
+		System.out.println("E nunca vai ter. KKKKK");
 	}
 
 }
